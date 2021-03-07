@@ -1,0 +1,4 @@
+include ':musicplayer'
+include ':medialoader'
+include ':app'
+rootProject.name = "Files"
